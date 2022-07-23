@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yorkinbek
-- 👀 I’m interested in programing languages such as python, C#, java, and javaScripts
+- 👀 I’m interested in programing languages such as python, C#, java, go and javaScripts 
 - 🌱 I’m currently learning Automated Testing for java and javaScripts in https://learn.epam.com/
 - 💞️ I’m looking to collaborate on some projects ,in order to add to my portfolio 
 - 📫 How to reach me yorqinbek0215@gmail.com
